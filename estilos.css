@@ -15,7 +15,6 @@ header {
   color: white;
 }
 
-/* === BARRA DE NAVEGACIÓN HORIZONTAL === */
 nav {
   background: #5b83ab;
   padding: 15px;
@@ -43,14 +42,13 @@ nav ul li a:hover {
   color: #000;
 }
 
-/* === CONTENIDO PRINCIPAL === */
 article {
   padding: 30px;
   width: 100%;
   background-color: #ffffff;
 }
 
-/* === ESTILO DE LA TABLA === */
+
 table {
   width: 100%;
   border-collapse: collapse;
@@ -91,7 +89,7 @@ footer {
   line-height: 1.5;
 }
 
-/* === RESPONSIVE === */
+
 @media (max-width: 600px) {
   nav ul li {
     display: block;
